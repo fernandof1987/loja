@@ -4,7 +4,7 @@ Para o desenvolvimento  foram utilizadas as seguintes tecnologias:
 
 PHP 7, Laravel 5.7, Mysql, Bootstrap 4 e algumas outras bibliotecas.
 
-Ferramentas necesárias para rodar o projeto:
+Ferramentas necessárias para rodar o projeto:
 
 - PHP 7
 - Composer
